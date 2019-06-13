@@ -243,3 +243,6 @@ h1 {
   weight: 400px;
   height: 350px
 }
+img {
+  border: 2px solid black
+}
